@@ -30,3 +30,5 @@ class Artist
     songs.each { |song| add_song(song) }
   end
 end
+
+#small changes to complete lab on learnco
